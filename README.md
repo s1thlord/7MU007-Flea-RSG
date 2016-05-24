@@ -157,7 +157,7 @@ To consider the overall design of the Flea RSG, for it’s intended purpose to t
 
 
 
-##Resources
+##Bibliography
 
 
 Bown, O. and Lexer, S. (2006) Continuous-Time Recurrent Neural Networks for Generative and Interactive Musical Performance. Lecture Notes in Computer Science, pp. 652-663.
