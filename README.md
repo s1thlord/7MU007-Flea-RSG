@@ -1,6 +1,6 @@
-# 7MU007-Flea-RSG
 ##Flea Rhythm Section Generator 
 
+By Chris Holder Any comments or quiries please E:mail the author Chris.holder@mail.com
 # Introduction
 
 The flea rhythm section generator so called because its main design feature is the ability to create a bass and drum line in real-time very quickly. The purpose of this software came from being tasked with creating something that would provide the bass and drums for a laptop ensemble whilst having the ability of interaction from the other members of the ensemble.
@@ -168,7 +168,7 @@ Nierhaus, G. (2009) Algorithmic composition. Wien: Springer.
 
 
   
-
+Any comments or quiries please E:mail the author Chris.holder@mail.com
 
 
 ##Generative Neural Midi composer
