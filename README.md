@@ -153,11 +153,12 @@ The final development this abstraction had was an inspiration once again taken f
 
 ##Evaluation 
 
-To consider the overall design of the Flea RSG, for it’s intended purpose to take the role as generative rhythm section real time composer for a laptop ensemble. It is felt by the author that the abstraction served its purpose well with no runtime faults occurring on this alpha version. However upon considering this software as it stands for a “real-world” use. It is difficult to think of any real purpose it could serve. However with some “tinkering” of this software there maybe some potential.
+To consider the overall design of the Flea RSG, for it’s intended purpose to take the role as generative rhythm section real time composer for a laptop ensemble. It is felt by the author that the abstraction served its purpose well with no runtime faults occurring during the performance with the software.The   sonic timbre written into the software is capable of many different sounds though the use of the F.M synthesis model. However the resulting timbre from the lack of real-time pitch control could be a limitation.This is due to erratic nonlinear responses from the tone generator (dependanton on F.M modulation settings). Coupled with the restriction in notes midi notes 12-36. This was due to the ensemble requirment of bass only meant a 3 octave scale. To enforce the required frequencies needed. 
+However upon considering this software as it stands for a “real-world” use. It is difficult to think of any real purpose it could serve. However with some “tinkering” of this software there maybe some potential.
 
 
 
-##Bibliography
+##Resources
 
 
 Bown, O. and Lexer, S. (2006) Continuous-Time Recurrent Neural Networks for Generative and Interactive Musical Performance. Lecture Notes in Computer Science, pp. 652-663.
