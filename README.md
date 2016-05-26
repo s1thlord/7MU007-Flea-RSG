@@ -210,7 +210,7 @@ Please note this software requires Pure Data to run free download available at: 
 Laptop ensemble (original version)
 <https://github.com/s1thlord/idon/blob/s1thlord-patch-1/laptop%20fm.pd>
 
-Generative Neural Midi Composer (Alpha version)
+Generative Neural Midi Composer (Alpha version) <https://github.com/s1thlord/idon/blob/gh-pages/ngmp%20ALHPA.pd>
 
 
 
