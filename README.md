@@ -196,7 +196,7 @@ The overhaul consists of:
 
 This video contains a small users guide and working demonstration of the Generative Neural Midi Composer.
 
-
+<https://youtu.be/1CA1T4RSUFE>
 
 
 
